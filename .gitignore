@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 虚拟环境
+.env/
+
+# vscode配置
+.vscode/
